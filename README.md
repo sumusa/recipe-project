@@ -1,6 +1,6 @@
 # A Food Recipe Website
 
-A simple HTML website showing recipes with ingredients and instructions on how to make selected awesome dish.
+A simple HTML website showing recipes with ingredients and instructions on how to make selected meals.
 
 ## Lessons
 
