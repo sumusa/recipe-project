@@ -1,4 +1,4 @@
-# A Food Recipe Website
+# [A Food Recipe Website](https://basic-recipe-project.netlify.app/)
 
 A simple HTML website showing recipes with ingredients and instructions on how to make selected meals.
 
